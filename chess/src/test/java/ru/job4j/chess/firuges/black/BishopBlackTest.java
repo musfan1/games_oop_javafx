@@ -7,7 +7,6 @@ import ru.job4j.chess.firuges.Cell;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 
-
 class BishopBlackTest {
 
     @Test
